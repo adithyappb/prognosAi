@@ -19,7 +19,7 @@ PrognosAI is an AI-driven predictive maintenance system using TensorFlow and MLO
 2. **Environment Setup**: Install dependencies using `pip install -r requirements.txt`.
 3. **Data Preprocessing**: Run `python scripts/data_preprocessing.py` to preprocess data.
 4. **Model Training**: Execute `python scripts/train_model.py` to train the TensorFlow model.
-5. **Model Evaluation**: Open `models/model_evaluation.ipynb` using Jupyter to evaluate the model.
+5. **Model Evaluation**: Open `models/model_evaluation.py` to evaluate the model.
 
 # Results
 
