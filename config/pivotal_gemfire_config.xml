@@ -1,0 +1,9 @@
+<!-- Pivotal Gemfire configuration -->
+<cache>
+    <region name="example">
+        <region-attributes>
+            <partition-attributes/>
+        </region-attributes>
+    </region>
+</cache>
+
